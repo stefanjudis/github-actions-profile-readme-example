@@ -15,8 +15,7 @@ query tilPostCollection {
 }
 `;
 
-const SPACE_ID = 'f20lfrunubsq';
-const AUTH_TOKEN = '-zMLkE8FSPFwlNv5-B8NJGt52HzS5LxTnJ7dEWImu30';
+const { SPACE_ID, AUTH_TOKEN } = process.env;
 
 async function fetchTilPosts() {
   const { body } = await got(
@@ -66,4 +65,5 @@ ${posts
 
   await writeFile(join(__dirname, 'README.md'), newReadme, 'utf8');
   console.log(`You've written the readme`);
+  console.log(newReadme);
 })();

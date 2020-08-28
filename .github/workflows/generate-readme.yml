@@ -1,0 +1,36 @@
+name: Generate and commit readme
+# This workflow is triggered on pushes to the repository.
+on:
+  push:
+  repository_dispatch:
+    types: [publish-event]
+
+jobs:
+  build:
+    name: Generate and commit readme
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - run: npm install
+      - run: node ./index.js
+        env:
+          SPACE_ID: ${{ secrets.SPACE_ID }}
+          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
+
+      - run: git status
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Updated readme"
+          git push
+
+      # - name: Write Readme
+      #   uses: actions/hello-world-javascript-action@v1
+      #   with:
+      #     who-to-greet: 'Mona the Octocat'
+      #   id: hello
+      # # This step prints an output (time) from the previous step's action.
+      # - name: Echo the greeting's time
+      #   run: echo 'The time was ${{ steps.hello.outputs.time }}.'
