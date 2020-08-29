@@ -8,38 +8,40 @@
 
 
 
+
 <!-- CONTENTFUL_START -->
 
-    - 📯🌼🎁 [The navigation timing API includes the type of the current navigation](https://www.stefanjudis.com/today-i-learned/the-navigation-timing-api-and-the-type-of-the-current-navigation)
+    - 😲📈💅 [The navigation timing API includes the type of the current navigation](https://www.stefanjudis.com/today-i-learned/the-navigation-timing-api-and-the-type-of-the-current-navigation)
   
 
-    - 😔🐊🕦 [Elements with overflow: hidden are scrollable](https://www.stefanjudis.com/today-i-learned/elements-with-overflow-hidden-are-scrollable)
+    - 🙈🇰🇷🔏 [Elements with overflow: hidden are scrollable](https://www.stefanjudis.com/today-i-learned/elements-with-overflow-hidden-are-scrollable)
   
 
-    - 😲🏠♣️ [Define where an element should be scrolled to using elem.scrollIntoView ](https://www.stefanjudis.com/today-i-learned/define-where-an-element-should-be-scrolled-to-using-elem-scrollintoview)
+    - 👵🔻🔤 [Define where an element should be scrolled to using elem.scrollIntoView ](https://www.stefanjudis.com/today-i-learned/define-where-an-element-should-be-scrolled-to-using-elem-scrollintoview)
   
 
-    - 💩😊🚤 [GraphQL Playground offers a protocol handler](https://www.stefanjudis.com/today-i-learned/graphql-playground-offers-a-protocol-handler)
+    - 🎂🐑📯 [GraphQL Playground offers a protocol handler](https://www.stefanjudis.com/today-i-learned/graphql-playground-offers-a-protocol-handler)
   
 
-    - ®🚻🐮 [The ex unit in CSS](https://www.stefanjudis.com/today-i-learned/the-ex-unit-in-css)
+    - 🚠⛔️🔘 [The ex unit in CSS](https://www.stefanjudis.com/today-i-learned/the-ex-unit-in-css)
   
 
-    - 💦🕧🌔 [:defined can be used to target not yet defined custom elements](https://www.stefanjudis.com/today-i-learned/defined-can-be-used-to-target-not-yet-defined-custom-elements)
+    - 🚇🐊↗️ [:defined can be used to target not yet defined custom elements](https://www.stefanjudis.com/today-i-learned/defined-can-be-used-to-target-not-yet-defined-custom-elements)
   
 
-    - 🐣📋👣 [npm init uses npx under the hood](https://www.stefanjudis.com/today-i-learned/npm-init-uses-npx-under-the-hood)
+    - 💻✖️📞 [npm init uses npx under the hood](https://www.stefanjudis.com/today-i-learned/npm-init-uses-npx-under-the-hood)
   
 
-    - ❄️😆🔽 [git commit accepts several message flags (-m) to allow multiline commits](https://www.stefanjudis.com/today-i-learned/git-commit-accepts-several-message-flags-m-to-allow-multiline-commits)
+    - 😓👺🌞 [git commit accepts several message flags (-m) to allow multiline commits](https://www.stefanjudis.com/today-i-learned/git-commit-accepts-several-message-flags-m-to-allow-multiline-commits)
   
 
-    - 📋🌴🍃 [Downloads can be triggered via HTTP headers](https://www.stefanjudis.com/today-i-learned/downloads-can-be-triggered-via-http-headers)
+    - 🏠🗽🏊 [Downloads can be triggered via HTTP headers](https://www.stefanjudis.com/today-i-learned/downloads-can-be-triggered-via-http-headers)
   
 
-    - 💟🚂👕 [Custom properties affect how invalid CSS declarations are handled](https://www.stefanjudis.com/today-i-learned/custom-properties-affect-how-invalid-css-declarations-are-handled)
+    - 😠💥😩 [Custom properties affect how invalid CSS declarations are handled](https://www.stefanjudis.com/today-i-learned/custom-properties-affect-how-invalid-css-declarations-are-handled)
   
 <!-- CONTENTFUL_END -->
+  
   
   
   
