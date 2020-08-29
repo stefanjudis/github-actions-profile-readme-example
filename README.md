@@ -22,38 +22,40 @@
 
 
 
+
 <!-- CONTENTFUL_START -->
 
-    - 🔌🐬💼 [A preceding space prevents dangerous commands from going into history](https://www.stefanjudis.com/today-i-learned/a-preceding-space-prevents-dangerous-commands-from-going-into-history)
+    - 🌐😉🚎 [A quick way to take pretty window screenshots on macOS](https://www.stefanjudis.com/today-i-learned/a-quick-way-to-take-pretty-window-screenshots-on-macos)
   
 
-    - 🙋🕢📞 [The NPM_CONFIG_PRODUCTION flag sets the NOVE_ENV variable to production in npm scripts](https://www.stefanjudis.com/today-i-learned/the-npm_config_production-flag-sets-the-nove_env-variable-to-production-in)
+    - ✨➰☕️ [A preceding space prevents dangerous commands from going into history](https://www.stefanjudis.com/today-i-learned/a-preceding-space-prevents-dangerous-commands-from-going-into-history)
   
 
-    - 👇🎆😜 [Focus events include a relatedTarget property](https://www.stefanjudis.com/today-i-learned/focus-events-include-a-relatedtarget-property)
+    - 🏫⬅️🈚️ [The NPM_CONFIG_PRODUCTION flag sets the NOVE_ENV variable to production in npm scripts](https://www.stefanjudis.com/today-i-learned/the-npm_config_production-flag-sets-the-nove_env-variable-to-production-in)
   
 
-    - 🎦㊙️👓 [Quick access to document actions in Google docs](https://www.stefanjudis.com/today-i-learned/quick-access-to-document-actions-in-google-docs)
+    - ☎️🌁🌞 [Focus events include a relatedTarget property](https://www.stefanjudis.com/today-i-learned/focus-events-include-a-relatedtarget-property)
   
 
-    - 🔳🌒➿ [CSS Grid can be used to stack elements](https://www.stefanjudis.com/today-i-learned/css-grid-can-be-used-to-stack-elements)
+    - ☀️🇩🇪👇 [Quick access to document actions in Google docs](https://www.stefanjudis.com/today-i-learned/quick-access-to-document-actions-in-google-docs)
   
 
-    - 🛄📉🚈 [The macOS screenshot area is draggable](https://www.stefanjudis.com/today-i-learned/the-macos-screenshot-area-is-draggable)
+    - 😬🚭🈚️ [CSS Grid can be used to stack elements](https://www.stefanjudis.com/today-i-learned/css-grid-can-be-used-to-stack-elements)
   
 
-    - 👣📯💖 [requestSubmit offers a way to validate a form before submitting it](https://www.stefanjudis.com/today-i-learned/requestsubmit-offers-a-way-to-validate-a-form-before-submitting-it)
+    - 🔷🚉🔦 [The macOS screenshot area is draggable](https://www.stefanjudis.com/today-i-learned/the-macos-screenshot-area-is-draggable)
   
 
-    - 🍴🌅👺 ["Hard CSS gradients" can be shortened to not include redundant values](https://www.stefanjudis.com/today-i-learned/hard-css-gradients-can-be-shortened-to-not-include-redundant-values)
+    - 🌉🀄️🐢 [requestSubmit offers a way to validate a form before submitting it](https://www.stefanjudis.com/today-i-learned/requestsubmit-offers-a-way-to-validate-a-form-before-submitting-it)
   
 
-    - 🏁👎👝 [text-transforms affect screen readers, too!](https://www.stefanjudis.com/today-i-learned/text-transforms-affects-screen-readers-too)
+    - 💧👀👣 ["Hard CSS gradients" can be shortened to not include redundant values](https://www.stefanjudis.com/today-i-learned/hard-css-gradients-can-be-shortened-to-not-include-redundant-values)
   
 
-    - 🎥🍝💨 [Copy screenshots directly to the clipboard](https://www.stefanjudis.com/today-i-learned/copy-screenshots-directly-to-the-clipboard)
+    - 🚙🔸👕 [text-transforms affect screen readers, too!](https://www.stefanjudis.com/today-i-learned/text-transforms-affects-screen-readers-too)
   
 <!-- CONTENTFUL_END -->
+  
   
   
   
