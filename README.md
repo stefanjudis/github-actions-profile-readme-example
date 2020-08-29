@@ -14,38 +14,40 @@
 
 
 
+
 <!-- CONTENTFUL_START -->
 
-    - 🐣📡🐁 [text-transforms affect screen readers, too!](https://www.stefanjudis.com/today-i-learned/text-transforms-affects-screen-readers-too)
+    - 🕓😍🆚 ["Hard CSS gradients" can be shortened to not include redundant values](https://www.stefanjudis.com/today-i-learned/hard-css-gradients-can-be-shortened-to-not-include-redundant-values)
   
 
-    - 🎺🐧😉 [Copy screenshots directly to the clipboard](https://www.stefanjudis.com/today-i-learned/copy-screenshots-directly-to-the-clipboard)
+    - 🕤😍🇪🇸 [text-transforms affect screen readers, too!](https://www.stefanjudis.com/today-i-learned/text-transforms-affects-screen-readers-too)
   
 
-    - 😍🌟🚾 [Custom properties affect how invalid CSS declarations are handled](https://www.stefanjudis.com/today-i-learned/custom-properties-affect-how-invalid-css-declarations-are-handled)
+    - 👪⚓️🆕 [Copy screenshots directly to the clipboard](https://www.stefanjudis.com/today-i-learned/copy-screenshots-directly-to-the-clipboard)
   
 
-    - ❔😤🎑 [The navigation timing API includes the type of the current navigation](https://www.stefanjudis.com/today-i-learned/the-navigation-timing-api-and-the-type-of-the-current-navigation)
+    - 🔵⬇️📒 [Custom properties affect how invalid CSS declarations are handled](https://www.stefanjudis.com/today-i-learned/custom-properties-affect-how-invalid-css-declarations-are-handled)
   
 
-    - 👈🚾🎪 [Elements with overflow: hidden are scrollable](https://www.stefanjudis.com/today-i-learned/elements-with-overflow-hidden-are-scrollable)
+    - 🎇💵🔒 [The navigation timing API includes the type of the current navigation](https://www.stefanjudis.com/today-i-learned/the-navigation-timing-api-and-the-type-of-the-current-navigation)
   
 
-    - 🐍💔🐵 [Define where an element should be scrolled to using elem.scrollIntoView ](https://www.stefanjudis.com/today-i-learned/define-where-an-element-should-be-scrolled-to-using-elem-scrollintoview)
+    - 🍱🎢💅 [Elements with overflow: hidden are scrollable](https://www.stefanjudis.com/today-i-learned/elements-with-overflow-hidden-are-scrollable)
   
 
-    - ⚾️😲✴️ [GraphQL Playground offers a protocol handler](https://www.stefanjudis.com/today-i-learned/graphql-playground-offers-a-protocol-handler)
+    - 🎀🔳🚟 [Define where an element should be scrolled to using elem.scrollIntoView ](https://www.stefanjudis.com/today-i-learned/define-where-an-element-should-be-scrolled-to-using-elem-scrollintoview)
   
 
-    - 🐦🔩🍮 [The ex unit in CSS](https://www.stefanjudis.com/today-i-learned/the-ex-unit-in-css)
+    - 🏦😟☁️ [GraphQL Playground offers a protocol handler](https://www.stefanjudis.com/today-i-learned/graphql-playground-offers-a-protocol-handler)
   
 
-    - ☕️❓⤴️ [:defined can be used to target not yet defined custom elements](https://www.stefanjudis.com/today-i-learned/defined-can-be-used-to-target-not-yet-defined-custom-elements)
+    - 🚘🎦🌓 [The ex unit in CSS](https://www.stefanjudis.com/today-i-learned/the-ex-unit-in-css)
   
 
-    - 🎫🔗☁️ [npm init uses npx under the hood](https://www.stefanjudis.com/today-i-learned/npm-init-uses-npx-under-the-hood)
+    - 🕤📅✴️ [:defined can be used to target not yet defined custom elements](https://www.stefanjudis.com/today-i-learned/defined-can-be-used-to-target-not-yet-defined-custom-elements)
   
 <!-- CONTENTFUL_END -->
+  
   
   
   
