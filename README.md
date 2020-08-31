@@ -1,4 +1,10 @@
-# github-readme-example
+# github-readme-example:
+
+## The result of a live-livestream.
+
+![Screenshot of Stefan live-coding](./screenshot)
+
+📺 [Watch the live stream on Youtube](https://www.youtube.com/watch?v=6gDHAIXVPLg)!
 
 ## Contentful data
 
