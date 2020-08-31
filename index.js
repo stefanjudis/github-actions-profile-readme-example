@@ -47,8 +47,7 @@ async function fetchTilPosts() {
 
   const newReadme = readme.replace(
     contentfulDataRegex,
-    `
-<!-- CONTENTFUL_START -->
+    `<!-- CONTENTFUL_START -->
 ${posts
   .map(
     ({ title, slug }) =>
@@ -60,9 +59,10 @@ ${posts
         )} [${title}](https://www.stefanjudis.com/today-i-learned/${slug})`
   )
   .join('\n')}
-<!-- CONTENTFUL_END -->
-  `
+<!-- CONTENTFUL_END -->`
   );
+
+  console.log(newReadme);
 
   await writeFile(join(__dirname, 'README.md'), newReadme, 'utf8');
   console.log(`You've written the readme`);
