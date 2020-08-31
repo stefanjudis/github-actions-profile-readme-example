@@ -51,12 +51,13 @@ async function fetchTilPosts() {
 <!-- CONTENTFUL_START -->
 ${posts
   .map(
-    ({ title, slug }) => `
-    - ${randomEmoji
-      .random({ count: 3 })
-      .map(({ character }) => character)
-      .join('')} [${title}](https://www.stefanjudis.com/today-i-learned/${slug})
-  `
+    ({ title, slug }) =>
+      `- ${randomEmoji
+        .random({ count: 3 })
+        .map(({ character }) => character)
+        .join(
+          ''
+        )} [${title}](https://www.stefanjudis.com/today-i-learned/${slug})`
   )
   .join('\n')}
 <!-- CONTENTFUL_END -->
