@@ -11,7 +11,6 @@ This is a running example of a GitHub profile readme that is automatically enric
 ## Contentful data (automatically fetched 😲)
 
 <!-- CONTENTFUL_START -->
-
 - [npm install supports local modules](https://www.stefanjudis.com/today-i-learned/npm-install-supports-local-modules)
 - [Double-click the edges of a window in macOS to expand it](https://www.stefanjudis.com/today-i-learned/double-click-the-edges-of-a-window-in-macos-to-expand-it)
 - [You can import Google Analytics Stats in caniuse.com](https://www.stefanjudis.com/today-i-learned/you-can-import-google-analytics-stats-in-caniuse-com)
