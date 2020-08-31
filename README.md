@@ -2,13 +2,13 @@
 
 This is a running example of a GitHub profile readme that is automatically enriched via GitHub actions.
 
-## It was the result of a live-livestream 🙈
+## It was the result of a spontaneous livestream. 🙈
 
 ![Screenshot of Stefan live-coding](./screenshot.png)
 
 📺 [Watch the live stream on Youtube](https://www.youtube.com/watch?v=6gDHAIXVPLg)!
 
-## Contentful data (automatically fetched 😲)
+## Contentful data (automatically fetched and updated via GitHub Actions😲)
 
 <!-- CONTENTFUL_START -->
 
